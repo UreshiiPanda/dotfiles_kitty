@@ -1,5 +1,5 @@
 # BEGIN_KITTY_THEME
-# Everforest Dark Medium
+# Dimmed Monokai
 include current-theme.conf
 # END_KITTY_THEME
 
@@ -9,7 +9,7 @@ remember_window_size yes
 
 
 # allow scripts to control Kitty
-allow_remote_control yes
+allow_remote_control=yes
 
 # allow for changing of bg opacity w/ hotkeys
 dynamic_background_opacity yes
